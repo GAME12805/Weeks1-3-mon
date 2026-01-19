@@ -13,7 +13,7 @@ public class SpriteChanger : MonoBehaviour
     {
         //PickARandomColour();
         //spriteRenderer.sprite = mySprite;
-        PickARandomSprite();
+        PickARandomSprite(); 
     }
 
     // Update is called once per frame
